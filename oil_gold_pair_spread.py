@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 20 22:57:33 2016
+
+@author: sky_x
+"""
+
 import numpy as np
 import statsmodels.api as sm
 import pandas as pd
